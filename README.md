@@ -132,7 +132,7 @@ Projekt umożliwia:
 
 ---
 
-# Autor
+# Autor Jędrzej Stefanowski
 
 Projekt wykonany w ramach zajęć:
 **Algorytmy Metaheurystyczne 2026**
